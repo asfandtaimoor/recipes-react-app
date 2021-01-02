@@ -1,6 +1,6 @@
 <h1>Food Recipe App </h1>
 
-<img src="./images/app.png" width="100">
+<img src="./images/app.png" width="100%">
 
 # Getting Started with Create React App
 
