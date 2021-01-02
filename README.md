@@ -2,6 +2,12 @@
 
 <img src="./images/app.png" width="100%">
 
+# About Application
+
+1 = > This Application is getting data from https://developer.edamam.com/
+2 = > Also a search feature to search recipes online
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
