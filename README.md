@@ -1,4 +1,4 @@
-<h1>Food Recipe App </h1>
+<center><h1>Food Recipe App </h1></center>
 
 <img src="./images/app.png" width="100%">
 
